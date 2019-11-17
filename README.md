@@ -26,7 +26,8 @@ Free lessons, Istanbul 2015-2018, A Meal and More Soup Kitchen 2014, African dru
 Stony Brook, NY  
 Email:Growlroar@gmail.com  
 Tel:+9054 839 5916  
-	Skype: ThomaSchwartz
+	Skype: ThomaSchwartz  
+   
 Skills & clout  
 Special training: Red cross lifeguard training SUNY Fredonia, SCUBA certification, First aid/CPR Wilderness Voyageurs Rafting Co
 
