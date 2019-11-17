@@ -1,7 +1,7 @@
 # curriculum_vitiae
-Refreneces needed
-cat = input("choose a number")
-drop = ["chronologically"]
+Ref needed  
+cat = input("choose a number")  
+drop = ["chronologically"]  
 for x in drop:
   [cat for x in range(len(drop))]
   
