@@ -1,5 +1,5 @@
 # curriculum_vitiae
-Ref needed  
+როგორ ხარ
 cat = input("choose a number")  
 drop = ["chronologically"]  
 for x in drop:
