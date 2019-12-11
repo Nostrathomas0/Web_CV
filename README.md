@@ -1,9 +1,8 @@
 # curriculum_vitiae
-როგორ ხარ
-cat = input("choose a number")  
-drop = ["chronologically"]  
+როგორ ხარ  
+drop = []  for x in text
 for x in drop:
-  [cat for x in range(len(drop))]
+  [drop for x in range(len(drop))]
   
   Thomas Schwartz is sending winds of communication around the world.
   
