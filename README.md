@@ -3,7 +3,7 @@
 drop = []  for x in text
 for x in drop:
   [drop for x in range(len(drop))]
-  
+  Its a war with more winners
   Thomas Schwartz is sending winds of communication around the world.
   
   projects chronologically
