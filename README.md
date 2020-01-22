@@ -1,15 +1,14 @@
-# curriculum_vitiae
-როგორ ხარ  
-drop = []  for x in text
+# curriculum_vitae
+![peasey](როგორ ხარ  
+drop = []  
+for x in text
 for x in drop:
   [drop for x in range(len(drop))]
-  Its a war with more winners
+ 
   Thomas Schwartz is sending winds of communication around the world.
-  
-  projects chronologically
-  
-  Projects, Workshops & Presentations   
-Branching out ideas, a workshop study of mind maps	2017-2019
+
+  **Projects, Workshops & Presentations chronologically**  
+[Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html) 2017-2019
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 Teacher Training Collaboration, Dialogue Schools	2015  
 Worked with admins to arrange the time, space, presentations details  
