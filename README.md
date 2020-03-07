@@ -8,6 +8,10 @@ for x in drop:
   Thomas Schwartz is sending winds of communication around the world.
 
   **Projects, Workshops & Presentations chronologically**  
+August 2019 - May 2020 
+Masters of Arts degree Teaching English to Speakers of Other Languages
+[Phonology] (kwarks/Georgian_Pratt_Anaysis.pdf)  
+[unit plan] (https://nostrathomas0.github.io/1/)
 [Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html) 2017-2019
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 Teacher Training Collaboration, Dialogue Schools	2015  
