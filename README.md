@@ -1,8 +1,6 @@
 # Curriculum Vitae  
 ![headshot](https://github.com/Nostrathomas0/c_v/blob/master/assets/green%20_triangle.jpg)  
-![test image size](/img/post-bg-2015.jpg){:class="img-responsive"}  
-![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}  
-![test image size](/img/post-bg-2015.jpg){:height="700px" width="400px"}  
+
   Thomas Schwartz is sending winds of communication around the world.
 
   **Projects, Workshops & Presentations chronologically**  
