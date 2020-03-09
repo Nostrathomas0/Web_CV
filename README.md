@@ -1,4 +1,5 @@
-# curriculum_vitae
+# curriculum_vitae  
+![headshot](assets/green triangle.jpg)
 ![peasey](როგორ ხარ  
 drop = []  
 for x in text
