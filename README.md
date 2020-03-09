@@ -1,11 +1,6 @@
 # curriculum_vitae  
-![headshot](assets/green triangle.jpg)
-![peasey](როგორ ხარ  
-drop = []  
-for x in text
-for x in drop:
-  [drop for x in range(len(drop))]
- 
+![headshot](assets/green triangle.jpg)  
+
   Thomas Schwartz is sending winds of communication around the world.
 
   **Projects, Workshops & Presentations chronologically**  
