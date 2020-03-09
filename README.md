@@ -1,5 +1,5 @@
-# curriculum_vitae  
-![headshot](assets/green_triangle.jpg)  
+# Curriculum Vitae  
+![headshot](https://github.com/Nostrathomas0/c_v/blob/master/assets/green%20_triangle.jpg)  
 
   Thomas Schwartz is sending winds of communication around the world.
 
