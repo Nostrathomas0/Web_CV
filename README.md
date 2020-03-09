@@ -1,5 +1,5 @@
 # curriculum_vitae  
-![headshot](assets/green triangle.jpg)  
+![headshot](assets/green_triangle.jpg)  
 
   Thomas Schwartz is sending winds of communication around the world.
 
