@@ -1,4 +1,0 @@
----
-title: CV
-type: head
----
