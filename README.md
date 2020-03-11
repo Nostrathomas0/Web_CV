@@ -1,4 +1,4 @@
-# Curriculum Vitae  
+# Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)  
 
   Thomas Schwartz is sending winds of communication around the world.
