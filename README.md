@@ -1,7 +1,7 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)  
 
-  Thomas Schwartz is sending winds of communication around the world.
+_sending messages of hope on the winds of communication_
 
   **Projects, Workshops & Presentations chronologically**  
 August 2019 - May 2020 
