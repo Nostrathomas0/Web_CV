@@ -1,15 +1,33 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)
-<p align="right"><i> Teaching sailing on winds of communication </i></p>
+<p align="right"><i> Teaching us to sail on winds of communication </i></p>
 
-  **Projects chronologically**    
-_August 2019 - May 2020_ Stonybrook University  
+  ****Projects chronologically****    
+_August 2019 - May 2020_ Stonybrook University:  
 Masters of Arts in Teaching English to Speakers of Other Languages  
-M.A. TESOL (projected completion early May)  
-<a href= "https://nostrathomas0.github.io/1/"> Web ESL Unit Plan </a>
-<a href= "https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf" Language Sketch: Georgian </a>  
+**Courses**  
+_completed_
+*TESOL Pedagogy: Theory & Practice LIN524 (A)
+*Phonetics LIN 522 (A-)
+*Structure of English LIN527 (A)
+*Intro to General Linguistics LIN530 (A)
+*Computational Linguistics LIN537 (A)
+*Bilingualism LIN541 (A)
+*Field Experience in TESOL Grades K-6 LIN579 (50 hours of observactions at Flower  Hill Primary School) 
+_in progress_
+*TESOL Pedagogy: Curriculum Design and Evaluation
+*Content-Based Language and Literacy Devlopment LIN529
+*Precalculus MAT123
+*Second Language acquisition LIN532
+*Contrastive Analysis
+*Field Experience in Adult and Tertiary Contexts
+*Field Experience in TESOL Grades 6-12
+*Chinese 101
+
+<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>
 </br>  
-_2017-2019_ British Side Istanbul/Beykent University: 
+_2017-2019_ British Side Istanbul/Beykent University:  
+IELTS course online: I was responsible for the sylabus for a new online course. I worked closely with the web administrator to gather materials and 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 ![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 _2015-2017
