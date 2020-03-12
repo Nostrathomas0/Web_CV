@@ -2,11 +2,11 @@
 ![headshot](assets/green _triangle.jpg)
 <p align="right"><i> Teaching us to sail on winds of communication </i></p>
 
-  ###Projects chronologically    
+### Projects chronologically    
 _August 2019 - May 2020:_ Stonybrook University:  
-Masters of Arts in Teaching English to Speakers of Other Languages
+Masters of Arts in Teaching English to Speakers of Other Languages  
 **Articles**
-<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>
+<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>  
 </br>  
 **Courses**  
 _completed_
@@ -25,9 +25,10 @@ _in progress_
 *Contrastive Analysis
 *Field Experience in Adult and Tertiary Contexts
 *Field Experience in TESOL Grades 6-12
-*Chinese 101
+*Chinese 101  
 </br>
-
+**Grants & Honors**
+Graduate student prize for professional development
 _2017-2019:_ British Side Istanbul/Beykent University:  
 IELTS course online: I was responsible for the sylabus for a new online course. I worked closely with the web administrator to gather materials and 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
