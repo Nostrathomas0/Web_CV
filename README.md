@@ -1,5 +1,5 @@
 # Thomas Schwartz
-![headshot](assets/green _triangle.jpg)  
+![headshot](assets/green _triangle.jpg)
 <p align="right"><i> Teaching to sail on winds of communication </i></p>
 
   **Projects, Workshops & Presentations chronologically**  
