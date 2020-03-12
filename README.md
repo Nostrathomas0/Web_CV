@@ -2,7 +2,7 @@
 ![headshot](assets/green _triangle.jpg)
 <p align="right"><i> Teaching sailing on winds of communication </i></p>
 
-  **Projects, Workshops & Presentations chronologically**  
+  **Projects chronologically**    
 _August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages
 Masters of Arts degree Teaching English to Speakers of Other Languages  
 [Phonology] (https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf)  
@@ -11,6 +11,8 @@ Masters of Arts degree Teaching English to Speakers of Other Languages
 
 _2017-2019_ British Side Istanbul/Beykent University: 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
+
+_2015-2017
 Teacher Training Collaboration, Dialogue Schools	2015  
 Worked with admins to arrange the time, space, presentations details  
 teaching workshop: A musical classroom, graphic organizers, computational linguistics  
