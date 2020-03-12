@@ -3,10 +3,11 @@
 <p align="right"><i> Teaching sailing on winds of communication </i></p>
 
   **Projects chronologically**    
-_August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages  
-*M.A. TESOL (projected completion early May)  
-*<a href= "https://nostrathomas0.github.io/1/"> Web ESL Unit Plan </a>
-*<a href= "https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf" Language Sketch: Georgian </a>  
+_August 2019 - May 2020_ Stonybrook University  
+Masters of Arts in Teaching English to Speakers of Other Languages  
+M.A. TESOL (projected completion early May)  
+<a href= "https://nostrathomas0.github.io/1/"> Web ESL Unit Plan </a>
+<a href= "https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf" Language Sketch: Georgian </a>  
 </br>  
 _2017-2019_ British Side Istanbul/Beykent University: 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
