@@ -8,24 +8,23 @@ Masters of Arts in Teaching English to Speakers of Other Languages
 **Articles**
 <a href= "https://nostrathomas0.github.io/1/"> Downloads </a>  
 </br>  
-**Courses**  
-_completed_
-*TESOL Pedagogy: Theory & Practice LIN524 (A)
-*Phonetics LIN 522 (A-)
-*Structure of English LIN527 (A)
-*Intro to General Linguistics LIN530 (A)
-*Computational Linguistics LIN537 (A)
-*Bilingualism LIN541 (A)
-*Field Experience in TESOL Grades K-6 LIN579 (50 hours of observactions at Flower  Hill Primary School) 
-_in progress_
-*TESOL Pedagogy: Curriculum Design and Evaluation
-*Content-Based Language and Literacy Devlopment LIN529
-*Precalculus MAT123
-*Second Language acquisition LIN532
-*Contrastive Analysis
-*Field Experience in Adult and Tertiary Contexts
-*Field Experience in TESOL Grades 6-12
-*Chinese 101  
+**Courses** with code and grade received (* indicates course in progress)
+
+* TESOL Pedagogy: Theory & Practice LIN524 (A)
+* Phonetics LIN 522 (A-)
+* Structure of English LIN527 (A)
+* Intro to General Linguistics LIN530 (A)
+* Computational Linguistics LIN537 (A)
+* Bilingualism LIN541 (A)
+* Field Experience in TESOL Grades K-6 LIN579 (50 hours of observactions at Flower  Hill Primary School) 
+* *TESOL Pedagogy: Curriculum Design and Evaluation
+* *Content-Based Language and Literacy Devlopment LIN529
+* *Precalculus MAT123
+* *Second Language acquisition LIN532
+* *Contrastive Analysis
+* *Field Experience in Adult and Tertiary Contexts
+* *Field Experience in TESOL Grades 6-12
+* *Chinese 101  
 </br>
 **Grants & Honors**
 Graduate student prize for professional development
