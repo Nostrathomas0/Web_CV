@@ -4,11 +4,13 @@
 _sending messages of hope on the winds of communication_
 
   **Projects, Workshops & Presentations chronologically**  
-August 2019 - May 2020 at The State University of New York at Stonybrook University _Masters of Arts in Teaching English to Speakers of Other Languages_  SUNY Stonybrook M.A. TESOL
-Masters of Arts degree Teaching English to Speakers of Other Languages
+_August 2019 - May 2020_ The State University of New York at Stonybrook University _Masters of Arts in Teaching English to Speakers of Other Languages_  SUNY Stonybrook M.A. TESOL
+Masters of Arts degree Teaching English to Speakers of Other Languages  
 [Phonology] (https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf)  
-[unit plan] (https://nostrathomas0.github.io/1/)
-[Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html) 2017-2019
+[unit plan] (https://nostrathomas0.github.io/1/)  
+[Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
+
+_2017-2019_
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 Teacher Training Collaboration, Dialogue Schools	2015  
 Worked with admins to arrange the time, space, presentations details  
