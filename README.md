@@ -5,9 +5,9 @@
   **Projects chronologically**    
 _August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages
 Masters of Arts degree Teaching English to Speakers of Other Languages  
-[Phonology] (https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf)  
-[unit plan] (https://nostrathomas0.github.io/1/)  
-[Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
+![Phonology] (https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf)  
+![unit plan] (https://nostrathomas0.github.io/1/)  
+![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
 _2017-2019_ British Side Istanbul/Beykent University: 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
