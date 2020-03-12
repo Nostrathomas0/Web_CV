@@ -2,9 +2,12 @@
 ![headshot](assets/green _triangle.jpg)
 <p align="right"><i> Teaching us to sail on winds of communication </i></p>
 
-  ****Projects chronologically****    
-_August 2019 - May 2020_ Stonybrook University:  
-Masters of Arts in Teaching English to Speakers of Other Languages  
+  ###Projects chronologically    
+_August 2019 - May 2020:_ Stonybrook University:  
+Masters of Arts in Teaching English to Speakers of Other Languages
+**Articles**
+<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>
+</br>  
 **Courses**  
 _completed_
 *TESOL Pedagogy: Theory & Practice LIN524 (A)
@@ -23,10 +26,9 @@ _in progress_
 *Field Experience in Adult and Tertiary Contexts
 *Field Experience in TESOL Grades 6-12
 *Chinese 101
+</br>
 
-<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>
-</br>  
-_2017-2019_ British Side Istanbul/Beykent University:  
+_2017-2019:_ British Side Istanbul/Beykent University:  
 IELTS course online: I was responsible for the sylabus for a new online course. I worked closely with the web administrator to gather materials and 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 ![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
