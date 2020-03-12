@@ -1,6 +1,6 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)  
-_Teaching to sail on winds of communication_
+<div style="text-align: right"> _Teaching to sail on winds of communication_ </div>
 
   **Projects, Workshops & Presentations chronologically**  
 _August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages
@@ -9,7 +9,7 @@ Masters of Arts degree Teaching English to Speakers of Other Languages
 [unit plan] (https://nostrathomas0.github.io/1/)  
 [Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
-_2017-2019_
+_2017-2019_ British Side Istanbul/Beykent University: 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
 Teacher Training Collaboration, Dialogue Schools	2015  
 Worked with admins to arrange the time, space, presentations details  
