@@ -1,6 +1,6 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)  
-<i> Teaching to sail on winds of communication </i>
+<p align="right"><i> Teaching to sail on winds of communication </i></p>
 
   **Projects, Workshops & Presentations chronologically**  
 _August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages
