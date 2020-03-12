@@ -4,15 +4,13 @@
 
   **Projects chronologically**    
 _August 2019 - May 2020_ Stonybrook University: Masters of Arts in Teaching English to Speakers of Other Languages  
-M.A. TESOL (projected completion early May)  
-<a href= "https://nostrathomas0.github.io/1/"> Web ESL Unit Plan </a>
-<a href= "https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf" Language Sketch: Georgian </a> 
-
-![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
-
+*M.A. TESOL (projected completion early May)  
+*<a href= "https://nostrathomas0.github.io/1/"> Web ESL Unit Plan </a>
+*<a href= "https://github.com/Nostrathomas0/1/blob/master/kwarks/Georgian_Pratt_Anaysis.pdf" Language Sketch: Georgian </a>  
+</br>  
 _2017-2019_ British Side Istanbul/Beykent University: 
 After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
-
+![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 _2015-2017
 Teacher Training Collaboration, Dialogue Schools	2015  
 Worked with admins to arrange the time, space, presentations details  
