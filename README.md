@@ -28,23 +28,31 @@ Masters of Arts in Teaching English to Speakers of Other Languages
 **Grants & Honors**
 Graduate student prize for professional development  
 
-**_2017-2019:_** British Side Istanbul/Beykent University:  
-* IELTS course online: Syllabus & Curriculum design 
-* Instructed an undergrad general English prepatory course 
-* 
-After studying mind map protocols I wrote curricula, administrated workshops. I presented methodology, curricula and findings at Düzge International Conference On Writing	 October 2018.
-![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
-_2015-2017
-Teacher Training Collaboration, Dialogue Schools	2015  
-Worked with admins to arrange the time, space, presentations details  
-teaching workshop: A musical classroom, graphic organizers, computational linguistics  
-Other: Pedigocal Terminology... 
-Yoga Workshops, Gönüllü Hareketi	2011 - 2019  
-Yoga basics for all at a community center.  
+**_2018-2019:_** ![British Side Istanbul](https://britishside.com/) ![Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik) ![Oxford University Press](https://global.oup.com/?cc=tr) ![Speech bubbles](speechbubbles.org):
+* Syllabus & Curriculum design for a new online IELTS course 
+* Instructed undergrad general English prepatory course 
+* Off and on site lessons in general, business and English for specific purposes
+* Presentations for teacher training in writing, graphic organizers and music in the classroom
+* Stage manager and dancer for _We Will Rock You!_
 
-  Other activities
-Internships and volunteering  
-Free lessons, Istanbul 2015-2018, A Meal and More Soup Kitchen 2014, African drum workshop at Church of the Ascension 2014, English Conversation Club and Yoga class at Gönüllü Hareketi Görükle 2013-2014, Community bike repair at Spoke Folk Dunkirk 2008-2010, Curator Adams Art Gallery Dunkirk 2008, Internship at The Leadville Chronicle 2010
+
+**_2016-2018_** After traveling a bit, I returned to Turkey to teach Academic English. ![Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) ![DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal] (http://www.rumelide.com/)
+* Our team was responsible for instruction, curriculum, testing, and assessment.
+* I led a branch of this team that did research, training, web content, interviews, writing and administering student surveys.
+* After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. ![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
+
+**_2011-2016_** I found a new career as an EFL teacher. Then I started teaching in Turkey. I wrote environmental journalism for and freelance for advertorial contracts including the Albanian Government.    
+![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](Yıldız Kolejiwww.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
+* I recruiters from Dialogue Language School to train each other
+* I taught 8 different English and music lessons and developed activities including a guitar class for grades 4-9
+* Teacher Training Collaboration, Dialogue Schools
+* I instructed yoga workshops in Turkish at Gönüllü Hareketi volunteer center 
+
+**_2007-2011_** I worked between Leadville CO and Dunkirk NY as a newspaper reporter and freelance writer for magazines and websites. I also worked between Breckenridge CO and Ohiopyle PA in adventure sports and photography.
+* Hundreds of my articles were published, I interviewed community members, answered phones for obits and community calendar, and administered the Dunkirk Observer's ![website](observertoday.com) 
+* Internship at The Leadville Chronicle (defunct) 
+* Community bike repair at Spoke Folk Dunkirk 2008-2010
+* Curator Adams Art Gallery Dunkirk Internship at The Leadville Chronicle 2010
 
 Stony Brook, NY  
 Email:Growlroar@gmail.com  
@@ -66,9 +74,7 @@ Branching Out ideas: a workshop and curricula on mindmaps: upcoming publication 
 Advertorials, commissioned by Pronto Publishing		           2015-2016  
 Social Media New Zealand: John Lai                            2007- 2010  
 Articles on yesilist.com  
-topics: green cities, Ülüdağ gondola, environmental cost analysis           2015  
-
-100+ articles on The Dunkirk Observer full time reporter  2008-2010 
+topics: green cities, Ülüdağ gondola, environmental cost analysis           2015 
 
 Internships and volunteering  
 Free lessons for refugees, Istanbul 2012-2018, A M
