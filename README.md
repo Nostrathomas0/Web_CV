@@ -28,7 +28,7 @@ Masters of Arts in Teaching English to Speakers of Other Languages
 **Grants & Honors**
 Graduate student prize for professional development  
 
-**_2018-2019:_** ![British Side Istanbul](https://britishside.com/) ![Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik) ![Oxford University Press](https://global.oup.com/?cc=tr) ![Speech bubbles](speechbubbles.org):
+**_2018-2019:_** [British Side Istanbul](https://britishside.com/) [Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik) [Oxford University Press](https://global.oup.com/?cc=tr) [Speech bubbles](speechbubbles.org):
 * Syllabus & Curriculum design for a new online IELTS course 
 * Instructed undergrad general English prepatory course 
 * Off and on site lessons in general, business and English for specific purposes
