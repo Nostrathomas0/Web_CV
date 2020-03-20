@@ -5,12 +5,11 @@
 ### Projects chronologically    
 **_August 2019 - May 2020:_** Stonybrook University:  
 Masters of Arts in Teaching English to Speakers of Other Languages  
-**Articles**
-<a href= "https://nostrathomas0.github.io/1/"> Downloads </a>  
+
   
-**Courses** with code and grade received (* indicates course in progress)
-* TESOL Pedagogy: Theory & Practice LIN524 (A)
-* Phonetics LIN 522 (A-)
+**Courses** (grade) [Term Paper]
+* TESOL Pedagogy: Theory & Practice LIN524 (A) Online ESL [Unit Plan](kwarks/unit_plan.docx.docx)
+* Phonetics LIN 522 (A-) [მადლობა შოთიკოს](kwarks/Georgian_Pratt_Anaysis.pdf) 
 * Structure of English LIN527 (A)
 * Intro to General Linguistics LIN530 (A)
 * Computational Linguistics LIN537 (A)
