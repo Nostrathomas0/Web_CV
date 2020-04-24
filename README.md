@@ -1,6 +1,15 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)
-<p align="right"><i> Teaching us to sail on winds of communication </i></p>
+<p align="right"><i> Teaching sailing on winds of communication </i></p>
+
+**Languages:** Turkish – B1 certification from TÖMER Bursa 2013
+
+**Articles:**  
+Branching Out Ideas RumeliDE, Journal on Languages and Literature _2018_
+100+ newspaper articles _2007-2010_
+Social Media New Zealand: John Lai _2007-2010_ 
+Articles on yesilist.com/The Webster Post Website, Albanian National Pampheture, Advertorials _2007-2015_
+
 
 ### Projects chronologically    
 **_August 2019 - May 2020:_** Stonybrook University:  
@@ -48,8 +57,8 @@ Graduate student prize for professional development
 * I instructed yoga workshops in Turkish at Gönüllü Hareketi volunteer center 
 
 **_2007-2011_** I worked between Leadville CO and Dunkirk NY as a newspaper reporter and freelance writer for magazines and websites. I also worked between Breckenridge CO and Ohiopyle PA in adventure sports and photography.
-* Hundreds of my articles were published, I interviewed community members, answered phones for obits and community calendar, and administered the Dunkirk Observer's ![website](observertoday.com) 
-* Internship at The Leadville Chronicle (defunct) 
+* Hundreds of my articles were published, I interviewed community members, answered phones for obits and community calendar, and administered the Dunkirk Observer's ![website](https://observertoday.com) 
+* Internship at The Leadville Chronicle (now defunct) 
 * Community bike repair at Spoke Folk Dunkirk 2008-2010
 * Curator Adams Art Gallery Dunkirk Internship at The Leadville Chronicle 2010
 
@@ -64,15 +73,6 @@ Special skills: Lifeguard training, SCUBA certification, First aid/CPR Wildernes
 Educational: Consultancy and presentation on meta-cognition or other topics; English teaching including test prep, company services & kids; Music, Turkish or tech
 
 Writing and Journalism: MLA style, excellent communication and writing skills, research and investigation, typing, pagination and layout programs, good photo and video shoots and edits 
-
-Languages: Turkish – B1 certification from TÖMER Bursa 2013. I use Turkish as a language of instruction for workshops.
-
-Articles  
-Branching Out ideas: a workshop and curricula on mindmaps: upcoming publication in the March edition of RumeliDE, Journal on Language and Literature.	        2018
-Advertorials, commissioned by Pronto Publishing		           2015-2016  
-Social Media New Zealand: John Lai                            2007- 2010  
-Articles on yesilist.com  
-topics: green cities, Ülüdağ gondola, environmental cost analysis           2015 
 
 Internships and volunteering  
 Free lessons for refugees, Istanbul 2012-2018, A M
