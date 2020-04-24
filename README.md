@@ -35,10 +35,10 @@ Graduate student prize for professional development
 * Stage manager and dancer for _We Will Rock You!_
 
 
-**_2016-2018_** After traveling a bit, I returned to Turkey to teach Academic English. ![Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) ![DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal] (http://www.rumelide.com/)
+**_2016-2018_** After traveling a bit, I returned to Turkey to teach Academic English. [Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) [DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal](http://www.rumelide.com/)
 * Our team was responsible for instruction, curriculum, testing, and assessment.
 * I led a branch of this team that did research, training, web content, interviews, writing and administering student surveys.
-* After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. ![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
+* After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. [Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
 **_2011-2016_** I found a new career as an EFL teacher. Then I started teaching in Turkey. I wrote environmental journalism for and freelance for advertorial contracts including the Albanian Government.    
 ![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](https://www.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
