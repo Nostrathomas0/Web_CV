@@ -27,7 +27,7 @@ Masters of Arts in Teaching English to Speakers of Other Languages
 **Grants & Honors**
 Graduate student prize for professional development  
 
-**_2018-2019:_** [British Side Istanbul](https://britishside.com/ "British Side Istanbul") [Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik "Beykent University") [Oxford University Press](https://global.oup.com/?cc=tr "Oxford University Press") [Speech bubbles](speechbubbles.org "Speech bubbles"):
+**_2018-2019:_** [British Side Istanbul](https://britishside.com/ "British Side Istanbul") [Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik "Beykent University") [Oxford University Press](https://global.oup.com/?cc=tr "Oxford University Press") [Speech bubbles](http://speechbubbles.org "Speech bubbles"):
 * Syllabus & Curriculum design for a new online IELTS course 
 * Instructed undergrad general English prepatory course 
 * Off and on site lessons in general, business and English for specific purposes
@@ -41,7 +41,7 @@ Graduate student prize for professional development
 * After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. ![Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
 **_2011-2016_** I found a new career as an EFL teacher. Then I started teaching in Turkey. I wrote environmental journalism for and freelance for advertorial contracts including the Albanian Government.    
-![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](Yıldız Kolejiwww.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
+![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](https://www.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
 * I recruiters from Dialogue Language School to train each other
 * I taught 8 different English and music lessons and developed activities including a guitar class for grades 4-9
 * Teacher Training Collaboration, Dialogue Schools
@@ -59,17 +59,16 @@ Tel:+9054 839 5916
 	Skype: ThomaSchwartz  
    
 Skills & clout  
-Special training: Red cross lifeguard training SUNY Fredonia, SCUBA certification, First aid/CPR Wilderness Voyageurs Rafting Co
+Special skills: Lifeguard training, SCUBA certification, First aid/CPR Wilderness Voyageurs Rafting Co
 
-Educational: Consultancy and presentation on mind maps, meta-cognition or other topics; English teaching including test prep, company services & kids; Music, Turkish or tech
+Educational: Consultancy and presentation on meta-cognition or other topics; English teaching including test prep, company services & kids; Music, Turkish or tech
 
 Writing and Journalism: MLA style, excellent communication and writing skills, research and investigation, typing, pagination and layout programs, good photo and video shoots and edits 
 
-Languages: Turkish – B1 certification from TÖMER Bursa 2013. I've used Turkish as a language of instruction for mind map workshops.
+Languages: Turkish – B1 certification from TÖMER Bursa 2013. I use Turkish as a language of instruction for workshops.
 
 Articles  
 Branching Out ideas: a workshop and curricula on mindmaps: upcoming publication in the March edition of RumeliDE, Journal on Language and Literature.	        2018
-
 Advertorials, commissioned by Pronto Publishing		           2015-2016  
 Social Media New Zealand: John Lai                            2007- 2010  
 Articles on yesilist.com  
