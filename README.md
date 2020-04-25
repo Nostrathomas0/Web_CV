@@ -5,10 +5,9 @@
 **Languages:** Turkish – B1 certification from TÖMER Bursa 2013
 
 **Articles:**  
-Branching Out Ideas RumeliDE, Journal on Languages and Literature _2018_
-100+ newspaper articles _2007-2010_
-Social Media New Zealand: John Lai _2007-2010_ 
-Articles on yesilist.com/The Webster Post Website, Albanian National Pampheture, Advertorials _2007-2015_
+[Branching Out Ideas](/1/) RumeliDE _2018_
+[100+ news articles](https://observertoday.com _2007-2010_
+The Webster Post, green jouractivism, Albanian national pampheture, advertorials _2007-2015_
 
 
 ### Projects chronologically    
