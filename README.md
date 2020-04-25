@@ -1,13 +1,13 @@
 # Thomas Schwartz
 ![headshot](assets/green _triangle.jpg)
-<p align="right"><i> Teaching sailing on winds of communication </i></p>
+<p align="right"><i> Teaching sailing on winds of communication </i></p>  
 
-**Languages:** Turkish – B1 certification from TÖMER Bursa 2013
+**Languages:** Turkish – B1 TÖMER Bursa _2013_  
 
 **Articles:**  
-[Branching Out Ideas](/1/) RumeliDE _2018_
-[100+ news articles](https://observertoday.com _2007-2010_
-The Webster Post, green jouractivism, Albanian national pampheture, advertorials _2007-2015_
+[Branching Out Ideas](/1/) RumeliDE _2018_  
+[100+ news articles](https://observertoday.com _2007-2010_  
+The Webster Post, green jouractivism, Albanian national pampheture, advertorials _2007-2015_  
 
 
 ### Projects chronologically    
