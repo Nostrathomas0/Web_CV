@@ -16,8 +16,8 @@
 
 **Articles:**  
 [Branching Out Ideas](/1/) RumeliDE _2018_  
-[100+ news articles](https://observertoday.com _2007-2010_  
-The Webster Post, green jouractivism, Albanian national pampheture, advertorials _2007-2015_  
+[100+ news articles](https://observertoday.com) _2007-2010_  
+Green journactivism, The Webster Post, Albanian national pampheture, advertorials _2007-2015_  
 
 
 ### Projects chronologically    
