@@ -12,7 +12,7 @@
 
 <p align="right"><i> Teaching sailing on winds of communication </i></p>  
 
-**Languages:** Turkish – B1 TÖMER Bursa _2013_  
+**Languages:** French - A2 Allaince Francais, Turkish – B1 TÖMER Bursa _2013_  
 
 **Articles:**  
 [Branching Out Ideas](/1/) RumeliDE _2018_  
