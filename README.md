@@ -11,7 +11,7 @@
 </svg></a></div>
 
 <p align="right"><i> Teaching sailing on winds of communication </i></p>  
-<p align="right>(assets/green _triangle.jpg)Nice, FR  
+<p align="right">(assets/green _triangle.jpg)Nice, FR  
 Email: nostrathomas@languapps.com  
 Skype: ThomaSchwartz </p>
 
