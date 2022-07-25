@@ -14,9 +14,13 @@
 <p align="right>(assets/green _triangle.jpg)Nice, FR  
 Email: nostrathomas@languapps.com  
 Skype: ThomaSchwartz </p>
-**Languages:** French - A2 Allaince Francais, Turkish – B1 TÖMER Bursa _2013_  
 
-**Articles and other papers:**  
+**Languages:** 
+*French - DELF A2 _2022_*
+*Turkish – B1 TÖMER _2013_*  
+*English - Native *
+
+**Articles:**  
 
 [The Phonetics of Georgian](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) _2019_
 [Branching Out Ideas](/1/) RumeliDE _2018_  
