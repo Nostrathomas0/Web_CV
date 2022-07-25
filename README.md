@@ -1,4 +1,7 @@
 # Thomas Schwartz
+<p align="right"><i> Teaching sailing on winds of communication </i>from Nice, FR</p>
+<p align="right">Email: nostrathomas@languapps.com</p>
+<p align="right">Skype: ThomaSchwartz</p>
 ![headshot](assets/green _triangle.jpg)
 <div style="display:flex;flex-wrap:wrap"><a href="https://facebook.com/growlroar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:24px;height:24px;padding:2px;margin:5px;color:#c3f4fb;border-radius:15%;background-color:#000000;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
     <path d="M211.9 197.4h-36.7v59.9h36.7V433.1h70.5V256.5h49.2l5.2-59.1h-54.4c0 0 0-22.1 0-33.7 0-13.9 2.8-19.5 16.3-19.5 10.9 0 38.2 0 38.2 0V82.9c0 0-40.2 0-48.8 0 -52.5 0-76.1 23.1-76.1 67.3C211.9 188.8 211.9 197.4 211.9 197.4z"></path>
@@ -13,9 +16,9 @@
 
 
 **Languages:** 
-*French - DELF A2 _2022_*
-*Turkish – B1 TÖMER _2013_*  
-*English - Native *
+French - A2 DELF _2022_
+Turkish – B1 TÖMER _2013_  
+English - Native 
 
 **Articles:**  
 
