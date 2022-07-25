@@ -10,10 +10,7 @@
     <circle cx="351.5" cy="160.5" r="21.5"></circle>
 </svg></a></div>
 
-<p align="right"><i> Teaching sailing on winds of communication </i></p>  
-<p align="right">Nice, FR
-<p align="right">Email: nostrathomas@languapps.com</p>
-<p align="right">Skype: ThomaSchwartz</p>
+
 
 **Languages:** 
 *French - DELF A2 _2022_*
