@@ -1,5 +1,7 @@
 # Thomas Schwartz
-![headshot](assets/green _triangle.jpg)
+![headshot](assets/green _triangle.jpg)Nice, FR  
+Email: nostrathomas@languapps.com  
+Skype: ThomaSchwartz  
 <div style="display:flex;flex-wrap:wrap"><a href="https://facebook.com/growlroar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:24px;height:24px;padding:2px;margin:5px;color:#c3f4fb;border-radius:15%;background-color:#000000;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
     <path d="M211.9 197.4h-36.7v59.9h36.7V433.1h70.5V256.5h49.2l5.2-59.1h-54.4c0 0 0-22.1 0-33.7 0-13.9 2.8-19.5 16.3-19.5 10.9 0 38.2 0 38.2 0V82.9c0 0-40.2 0-48.8 0 -52.5 0-76.1 23.1-76.1 67.3C211.9 188.8 211.9 197.4 211.9 197.4z"></path>
 </svg></a><a href="https://twitter.com/TomsEnglishClas" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:24px;height:24px;padding:2px;margin:5px;color:#c3f4fb;border-radius:15%;background-color:#000000;"><svg class="niftybutton-twitter" style="display:block;fill:currentColor" data-tag="twi" data-name="Twitter" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
@@ -14,20 +16,22 @@
 
 **Languages:** French - A2 Allaince Francais, Turkish – B1 TÖMER Bursa _2013_  
 
-**Articles:**  
-[Branching Out Ideas](/1/) RumeliDE _2018_  
-[100+ news articles](https://observertoday.com) _2007-2010_  
-Green journactivism, The Webster Post, Albanian national pampheture, advertorials _2007-2015_  
+**Articles and other papers:**  
 
+[The Phonetics of Georgian](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) _2019_
+[Branching Out Ideas](/1/) RumeliDE _2018_  
+The Webster Post, Albanian national pampheture, advertorials _2007-2015_  
+100+ local news articles _2007-2010_ 
 
 ### Projects chronologically    
+**Languapps** web development project 
 **_August 2019 - May 2020:_** Stonybrook University:  
 Masters of Arts in Teaching English to Speakers of Other Languages  
 
   
 **Courses** (grade) [Term Paper]
-* TESOL Pedagogy: Theory & Practice LIN524 (A) Online ESL [Unit Plan](kwarks/unit_plan.docx.docx)
-* Phonetics LIN 522 (A-) [მადლობა შოთიკოს](kwarks/Georgian_Pratt_Anaysis.pdf) 
+* TESOL Pedagogy: Theory & Practice LIN524 (A) Online ESL [Unit Plan](kwarks/unit_plan.pdf)
+* Phonetics LIN 522 (A-) [მადლობა შოთიკოს](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) 
 * Structure of English LIN527 (A)
 * Intro to General Linguistics LIN530 (A)
 * Computational Linguistics LIN537 (A)
@@ -44,6 +48,7 @@ Masters of Arts in Teaching English to Speakers of Other Languages
 
 **Grants & Honors**
 Graduate student prize for professional development  
+Startup Grant from AWS
 
 **_2018-2019:_** [British Side Istanbul](https://britishside.com/ "British Side Istanbul") [Beykent University](https://www.beykent.edu.tr/aday/kayit-kabul/yabanci-dil-hazirlik "Beykent University") [Oxford University Press](https://global.oup.com/?cc=tr "Oxford University Press") [Speech bubbles](http://speechbubbles.org "Speech bubbles"):
 * Syllabus & Curriculum design for a new online IELTS course 
@@ -53,12 +58,12 @@ Graduate student prize for professional development
 * Stage manager and dancer for _We Will Rock You!_
 
 
-**_2016-2018_** After traveling a bit, I returned to Turkey to teach Academic English. [Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) [DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal](http://www.rumelide.com/)
+**_2016-2018_** Research in mind maps and writing skills at [Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) [Beykent University](https://www.beykent.edu.tr [DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal](http://www.rumelide.com/)
 * Our team was responsible for instruction, curriculum, testing, and assessment.
 * I led a branch of this team that did research, training, web content, interviews, writing and administering student surveys.
 * After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. [Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
-**_2011-2016_** I found a new career as an EFL teacher. Then I started teaching in Turkey. I wrote environmental journalism for and freelance for advertorial contracts including the Albanian Government.    
+**_2011-2016_** I found a new career as an EFL teacher in Turkey. I wrote news for startup websites about local environmental concerns as well as some advertorial contracts including the Principality of Tirana.    
 ![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](https://www.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
 * I recruiters from Dialogue Language School to train each other
 * I taught 8 different English and music lessons and developed activities including a guitar class for grades 4-9
@@ -71,11 +76,7 @@ Graduate student prize for professional development
 * Community bike repair at Spoke Folk Dunkirk 2008-2010
 * Curator Adams Art Gallery Dunkirk Internship at The Leadville Chronicle 2010
 
-Stony Brook, NY  
-Email:Growlroar@gmail.com  
-Tel:+9054 839 5916  
-	Skype: ThomaSchwartz  
-   
+  
 Skills & clout  
 Special skills: Lifeguard training, SCUBA certification, First aid/CPR Wilderness Voyageurs Rafting Co
 
