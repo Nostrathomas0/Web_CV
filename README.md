@@ -62,20 +62,19 @@ Startup Grant from AWS
 * Stage manager and dancer for _We Will Rock You!_
 
 
-**_2016-2018_** Research in mind maps and writing skills at [Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) [Beykent University](https://www.beykent.edu.tr [DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE Language and Literature Research Journal](http://www.rumelide.com/)
-* Our team was responsible for instruction, curriculum, testing, and assessment.
-* I led a branch of this team that did research, training, web content, interviews, writing and administering student surveys.
-* After studying metacognitive protocols, I wrote curricula and administrated a workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in  October 2018. [Branching Out Ideas, A Workshop Study of Mind Maps] (http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
+**_2016-2018_** Research in mind maps and writing skills at [Fatih Sultan Mehmet Vakıf Üniversesi](http://prep.fsm.edu.tr/) [Beykent University](https://www.beykent.edu.tr) [DuICOL](https://www.duzce.edu.tr/13963-duyurus-duzce-university-international-conference-on-language-duicol-writing) [RumeliDE](http://www.rumelide.com/)
+* Our teaching team was responsible for instruction, curriculum, testing, and assessment. In addition I researched methods, trained teachers, produced web lessons, wrote tests and administering student surveys.
+* After studying metacognitive protocols, I wrote curricula and administrated a summer workshop for students. I presented methodology, curricula and findings at Düzge International Conference On Writing in October 2018. [Branching Out Ideas, A Workshop Study of Mind Maps](http://www.rumelide.com/dergi/arsiv/rumelide-2018-13--december.html)  
 
-**_2011-2016_** I found a new career as an EFL teacher in Turkey. I wrote news for startup websites about local environmental concerns as well as some advertorial contracts including the Principality of Tirana.    
-![Ukla Academy](https://www.ukla.com.tr/english/) ![Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) ![Istanbul Yıldız Koleji](https://www.yildizkoleji.k12.tr) ![Dialogue Language School](https://www.dialogue.com.tr/) ![Gonüllü Hareketi](http://www.gonulluhareketi.org/)
-* I recruiters from Dialogue Language School to train each other
-* I taught 8 different English and music lessons and developed activities including a guitar class for grades 4-9
+**_2011-2016_** I embark on a career as an EFL teacher in Turkey. I also write news for startup websites about local environmental concerns as well as some advertorial contracts.    
+[Ukla Academy](https://www.ukla.com.tr/english/) [Bursa Kültür Elementary School](http://www.niluferkulturkoleji.com/) [Istanbul Yıldız Koleji](https://www.yildizkoleji.k12.tr) [Dialogue Language School](https://www.dialogue.com.tr/) [Gonüllü Hareketi](http://www.gonulluhareketi.org/)
+* Co-teacher Co-trainer at Dialogue Language School
+* I taugh English and music lessons and developed a curriculum for a guitar class for grades 4-9
 * Teacher Training Collaboration, Dialogue Schools
-* I instructed yoga workshops in Turkish at Gönüllü Hareketi volunteer center 
+* I instructed yoga workshops at Gönüllü Hareketi volunteer center 
 
 **_2007-2011_** I worked between Leadville CO and Dunkirk NY as a newspaper reporter and freelance writer for magazines and websites. I also worked between Breckenridge CO and Ohiopyle PA in adventure sports and photography.
-* Hundreds of my articles were published, I interviewed community members, answered phones for obits and community calendar, and administered the Dunkirk Observer's ![website](https://observertoday.com) 
+* Hundreds of publications in local newspapers as I interviewed the community, answered phones, and administered the Dunkirk Observer's [website](https://observertoday.com) 
 * Internship at The Leadville Chronicle (now defunct) 
 * Community bike repair at Spoke Folk Dunkirk 2008-2010
 * Curator Adams Art Gallery Dunkirk Internship at The Leadville Chronicle 2010
