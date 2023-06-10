@@ -16,7 +16,7 @@
 
 
 **Languages:** 
-* French - A2 DELF _2022_
+* French - B1 DELF _2023_
 * Turkish – B1 TÖMER _2013_  
 * English - Native 
 
