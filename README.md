@@ -20,14 +20,15 @@
 * Turkish – B1 TÖMER _2013_  
 * English - Native 
 
-**Articles:**  
+**Publications:**  
 
 [The Phonetics of Georgian](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) _2019_
 [Branching Out Ideas](/1/) RumeliDE _2018_  
 The Webster Post, Albanian national pampheture, advertorials _2007-2015_  
 100+ local news articles _2007-2010_ 
 
-### Projects chronologically    
+### Projects chronologically  
+**The Orchestra of La Semeuse** 
 **Languapps** web development project 
 **_August 2019 - May 2020:_** Stonybrook University:  
 Masters of Arts in Teaching English to Speakers of Other Languages  
