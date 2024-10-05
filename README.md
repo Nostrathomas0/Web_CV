@@ -20,6 +20,14 @@
 * Turkish – B1 TÖMER _2013_  
 * English - Native 
 
+**Teaching**
+English for Fashion & Luxury Marketing
+    "    "  Sports Management
+    Business English
+
+**Projects:** 
+[Web App for English Learners}(https://labase.languapps.com) 
+
 **Publications:**  
 
 [The Phonetics of Georgian](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) _2019_
