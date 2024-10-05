@@ -1,6 +1,6 @@
 # Thomas Schwartz
-<p align="right"><i> Teaching sailing on winds of communication </i>from Nice, FR</p>
-<p align="right">Email: nostrathomas@languapps.com</p>
+<p align="right"><i> Teaching voices sailing on winds of communication </i>from Nice, FR</p>
+<p align="right"> languapps.com</p>
 <p align="right">Skype: ThomaSchwartz</p>
 ![photo](assets/wc.jpg)
 <div style="display:flex;flex-wrap:wrap"><a href="https://facebook.com/growlroar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:24px;height:24px;padding:2px;margin:5px;color:#c3f4fb;border-radius:15%;background-color:#000000;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
