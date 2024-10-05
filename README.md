@@ -83,7 +83,7 @@ Startup Grant from AWS
 * I instructed yoga workshops at Gönüllü Hareketi volunteer center 
 
 **_2007-2011_** I worked between Leadville CO and Dunkirk NY as a newspaper reporter and freelance writer for magazines and websites. I also worked between Breckenridge CO and Ohiopyle PA in adventure sports and photography.
-* Hundreds of publications in local newspapers as I interviewed the community, answered phones, and administered the Dunkirk Observer's [website](https://observertoday.com) 
+* Hundreds of publications in local newspapers as I interviewed the community, answered phones, and administered the Dunkirk Observer's [website]([https://www.observertoday.com/obituaries/]) 
 * Internship at The Leadville Chronicle (now defunct) 
 * Community bike repair at Spoke Folk Dunkirk 2008-2010
 * Curator Adams Art Gallery Dunkirk Internship at The Leadville Chronicle 2010
