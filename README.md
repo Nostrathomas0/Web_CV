@@ -23,7 +23,7 @@
 **Teaching** _current_
 * Reading fundamentals for children online
 * English for Fashion & Luxury Marketing Bac+1
-*    "    "  Sports Management Master
+* Sports Management Master
 
 **Projects:** 
 [Web App for English Learners}(https://labase.languapps.com) 
