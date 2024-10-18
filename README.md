@@ -21,9 +21,9 @@
 * English - Native 
 
 **Teaching** _current_
-* English for Fashion & Luxury Marketing 
-*    "    "  Sports Management
-*    Business English
+* Reading fundamentals for children online
+* English for Fashion & Luxury Marketing Bac+1
+*    "    "  Sports Management Master
 
 **Projects:** 
 [Web App for English Learners}(https://labase.languapps.com) 
@@ -36,13 +36,18 @@ The Webster Post, Albanian national pampheture, advertorials _2007-2015_
 100+ local news articles _2007-2010_ 
 
 ### Projects chronologically  
-**The Orchestra of La Semeuse** 
-**Languapps** web development project 
-**_August 2019 - May 2020:_** Stonybrook University:  
-Masters of Arts in Teaching English to Speakers of Other Languages  
+**English for Special purposes**
+*Curriculum, B1 course
+*Mixed Courses in Difference
+*Web Pipeline for Student Support in Grammar
 
-  
-**Courses** (grade) [Term Paper]
+**The Orchestra of La Semeuse** 
+*Viola
+
+**_August 2019 - May 2020:_** Stonybrook University:  
+MA in TESOL  
+
+***Courses*** (grade) [Term Paper]
 * TESOL Pedagogy: Theory & Practice LIN524 (A) Online ESL [Unit Plan](kwarks/unit_plan.pdf)
 * Phonetics LIN 522 (A-) [მადლობა შოთიკოს](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) 
 * Structure of English LIN527 (A)
