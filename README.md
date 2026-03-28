@@ -1,7 +1,7 @@
 # Thomas Schwartz
-<p align="right"><i>Facilities for Vocal-Verbal digital or presental </i>from Nice, FR</p>
- ![2011 Prag](assets/WoodgrainTorso.JPG)
+![2011 Prag](assets/WoodgrainTorso.JPG)
 *2011 Prag* 
+<p align="right"><i>Facilities for Vocal-Verbal digital or presental </i>from Nice, FR</p>
 <p align="right"><i>Building</i><a href="https://languapps.com"> Languapps.com</a></p>
 <p align="right"><i>Calling</i><a href="https://join.skype.com/invite/xHfRKiprOyFp"> ThomaSchwartz</a></p>
 <div style="display:flex;flex-wrap:wrap"><a href="https://facebook.com/growlroar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:24px;height:24px;padding:2px;margin:5px;color:#c3f4fb;border-radius:15%;background-color:#000000;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
