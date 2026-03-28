@@ -33,14 +33,13 @@
 * Differentiated Classroom
   
 **Project:** 
-* 
+* LANGUAPPS WEB MAGAZINE
 
 
 **Publications:**  
 
 [The Phonetics of Georgian](https://nostrathomas0.github.io/1/kwarks/Georgian_Pratt_Anaysis.pdf) _2019_
-[Branching Out Ideas](/1/) RumeliDE _20![UluDag Sunny](https://github.com/user-attachments/assets/94bb839e-3c08-4001-bb2f-0dfda7510ab8)
-/18_  
+[Branching Out Ideas](/1/) RumeliDE _2018_  
 The Webster Post, Albanian national pampheture, advertorials _2007-2015_  
 100+ local news articles _2007-2010_ 
 
