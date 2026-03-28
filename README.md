@@ -44,7 +44,8 @@ The Webster Post, Albanian national pampheture, advertorials _2007-2015_
 100+ local news articles _2007-2010_ 
 
 ### Projects chronologically  
-** 4th & 5th Grade ; Cours Moyennes en binome **
+**4th & 5th Grade** 
+*Cours Moyennes en binome
 
 **English for Special purposes**
 *Curriculum, B1 course
