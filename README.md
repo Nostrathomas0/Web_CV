@@ -1,5 +1,5 @@
 # Thomas Schwartz
-<p align="right"><i>Currently Teaching Sailing on Winds of Voice </i>from Nice, FR</p>
+<p align="right"><i>Facilities for Vocal-Verbal digital or presental </i>from Nice, FR</p>
 <p align="right"><i>Building</i><a href="https://languapps.com"> Languapps.com</a></p>
 <p align="right"><i>Calling</i><a href="https://join.skype.com/invite/xHfRKiprOyFp"> ThomaSchwartz</a></p>
 ![photo](assets/https://github.com/Nostrathomas0/Web_CV/blob/master/assets/Woodgrain%20Torso.JPG
