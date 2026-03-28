@@ -1,6 +1,8 @@
 # Thomas Schwartz
+![Uludağ](assets/UluDag Sunny.jpg)
+*2015 Bursa, TR*
 ![forum.Languapps&labase.Languapps](assets/wc.jpg) 
-*2020
+*2020 Nice, Fr*
 ![2011 Prag](assets/WoodgrainTorso.JPG)
 *2011 Prague, CZ* 
 
