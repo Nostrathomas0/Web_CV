@@ -16,18 +16,18 @@
 
 
 
-**Languages:** 
-* French - B1 DELF _2023_
-* Turkish – B1 TÖMER _2013_  
+**Languages:** _current_
+* French - B1 DELF 
+* Turkish – A2 TÖMER  
 * English - Native 
 
 **Teaching** _current_
-* Reading fundamentals for children online
-* English for Fashion & Luxury Marketing Bac+1
-* Sports Management Master
-
+* Middle Years, English for Computers
+* Young Learners Song and Dance
+* Differentiated Classroom
+  
 **Projects:** 
-[Web App for English Learners}(https://labase.languapps.com) 
+[forum.Languapps  & labase.Languapps}(https://labase.languapps.com) 
 
 **Publications:**  
 
@@ -37,9 +37,11 @@ The Webster Post, Albanian national pampheture, advertorials _2007-2015_
 100+ local news articles _2007-2010_ 
 
 ### Projects chronologically  
+** 4th & 5th Grade ; Cours Moyennes en binome **
+
 **English for Special purposes**
 *Curriculum, B1 course
-*Mixed Courses in Difference
+*Mixed Courses in Fine Specialities
 *Web Pipeline for Student Support in Grammar
 
 **The Orchestra of La Semeuse** 
