@@ -1,6 +1,6 @@
 # Thomas Schwartz
 ![2011 Prag](assets/WoodgrainTorso.JPG)
-*2011 Prag* 
+*2011 Prague, CZ* 
 <p align="right"><i>Facilities for Vocal-Verbal digital or presental </i>from Nice, FR</p>
 <p align="right"><i>Building</i><a href="https://languapps.com"> Languapps.com</a></p>
 <p align="right"><i>Calling</i><a href="https://join.skype.com/invite/xHfRKiprOyFp"> ThomaSchwartz</a></p>
