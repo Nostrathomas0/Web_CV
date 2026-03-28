@@ -27,7 +27,7 @@
 * Differentiated Classroom
   
 **Projects:** 
-[forum.Languapps  & labase.Languapps}(assets/wc.jpg) 
+![forum.Languapps  & labase.Languapps}(assets/wc.jpg) 
 
 **Publications:**  
 
